@@ -1,0 +1,11 @@
+mod = [
+	"Onslaught Mutator Debugger"
+]
+
+package = [
+	"resource_packages/Onslaught Mutator Debugger/Onslaught Mutator Debugger"
+]
+
+lua = [
+	"scripts/mods/Onslaught Mutator Debugger/*"
+]
